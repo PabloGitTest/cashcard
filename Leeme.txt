@@ -1,0 +1,13 @@
+Curso de spring.io
+	cashcard
+	Building a REST API with Spring Boot
+	https://spring.academy/courses/building-a-rest-api-with-spring-boot
+	
+	para poder subir codigo hay que primero crear el repositorio en github y luego subirlo desde eclipse
+	el password no es el mismo que para entrar en github.com
+	he creado un tocken que no expira
+	para crear el token arriba derecha->settings->developer settings->personal access tokens
+	
+	
+	
+		
